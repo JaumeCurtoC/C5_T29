@@ -1,0 +1,24 @@
+table{
+    width: 100%;
+    border-collapse: collapse;
+    text-align: center;
+}
+td{
+    border: 2px solid gray;
+
+}
+td.central{
+    color: red;
+}
+#c1{
+    background-color: lightgreen;
+}
+#c2{
+    text-align: left;
+    background-color: cyan;
+}
+#c6{
+    text-align: right;
+    vertical-align: bottom;
+    background-color: orchid;
+}

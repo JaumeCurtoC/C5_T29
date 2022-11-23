@@ -1,0 +1,21 @@
+table{
+    text-align: center;
+    width: 600px;
+    border-collapse: collapse;
+    color: maroon;
+}
+td{
+    border: 2px solid gray;
+}
+td.cab{
+    background-color: darkolivegreen;
+}
+td.cab2{
+    background-color: lightsalmon;
+}
+td.cab3{
+    background-color: khaki;
+}
+td.tb{
+    background-image: url("../images/background.jpg");
+}

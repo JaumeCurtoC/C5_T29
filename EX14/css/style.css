@@ -1,0 +1,26 @@
+body{
+    background-image: url("../images/yes.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    display: block;
+    width: 400px;
+    margin: auto;
+}
+table{
+    text-align: center;
+    border: 2px solid gray;
+    border-collapse: collapse;
+    width: 100%;
+    margin-top: 100%;
+    
+}
+th{
+    background-color: white;
+}
+td{
+    border: 2px solid gray;
+}
+tr:nth-child(even){
+    background-color: khaki;
+}

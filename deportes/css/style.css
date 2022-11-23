@@ -1,0 +1,23 @@
+table{
+    border: 2px solid dodgerblue;
+    border-collapse: collapse;
+    width: 500px;
+}
+th{
+    border: 2px solid dodgerblue;
+    color: lightgreen;
+    background-color: darkgreen;
+    text-align: center;
+}
+td{
+    border: 2px solid dodgerblue;
+}
+tr.impar{
+    background-color: lightgreen;
+}
+tr.par{
+    background-color: forestgreen;
+}
+td.precio{
+    text-align: center;
+}
