@@ -2,7 +2,7 @@
 
 [Ejercicio 11](https://jaumecurtoc.github.io/C5_T29/deportes/donde.html)
 
-[Ejercicio 12](https://jaumecurtoc.github.io/C5_T29/deportes/instalaciones.html)
+[Ejercicio 12](https://jaumecurtoc.github.io/C5_T29/deportes/instalacions.html)
 
 [Ejercicio 13](https://jaumecurtoc.github.io/C5_T29/EX13/)
 
